@@ -4,6 +4,12 @@
 
 OVICS is a lightweight hobby operating system built from scratch.
 
+## Links
+
+- Official Website: https://ovics-junk.netlify.app
+- YouTube: https://www.youtube.com/@OVICSJUNK
+- GitHub: https://github.com/ovics-junk/OVICS
+
 ## Version
 
 Current version: **0.0.2**
